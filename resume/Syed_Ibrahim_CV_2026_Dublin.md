@@ -8,23 +8,23 @@ Lucan, Co. Dublin · 089 973 3809 · Ibrahim.syed.r@gmail.com
 
 ## Professional Summary
 
-Senior full-stack engineer with **20+ years** of Java experience, based in Dublin and working across financial services and enterprise platforms. Specialist in **Spring Boot microservices**, REST APIs, cloud-native delivery on **AWS (EKS)**, and production support at scale; delivers production **React micro-frontends (MFE)** for customer-facing booking flows.
+Senior full-stack engineer with **20+ years** of Java experience, based in Dublin and working across financial services and enterprise platforms. Specialist in **Spring Boot microservices**, REST APIs, cloud-native delivery on **AWS (EKS)**, and production support at scale; **React micro-frontends (MFE)** for customer-facing booking flows.
 
-Strong track record designing and delivering secure, high-throughput services for **Hertz**, **Mastercard**, **AIB**, and other regulated environments. Comfortable across the full delivery lifecycle — architecture, implementation, CI/CD, Kubernetes deployment, observability (Splunk, Dynatrace, Amplitude), and production incident resolution. Hands-on with **React/TypeScript MFE** development (checkout, OAuth, shop-and-book) alongside backend API and authentication work. Built and deployed a **React.js timesheet application** as a personal full-stack side project, integrated with Spring Boot microservices on AWS.
+Strong track record designing and delivering secure, high-throughput services for **Hertz**, **Mastercard**, **AIB**, and other regulated environments. Comfortable across the full delivery lifecycle — architecture, implementation, CI/CD, Kubernetes deployment, observability (Splunk, Dynatrace, Amplitude), and production incident resolution. Built and deployed a **React.js timesheet application** as a personal full-stack side project, integrated with Spring Boot microservices on AWS.
 
 ---
 
 ## Core Skills
 
-| Area               | Technologies                                                                                                                                                 |
-| ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Backend**        | Java 17, Spring Boot, Spring Security, Spring Batch, Spring Retry, REST, OAuth2 / JWT, JPA / Hibernate                                                       |
-| **Integration**    | Kafka, IBM MQ, SOAP / REST, message-level encryption, two-way SSL                                                                                            |
-| **Cloud & DevOps** | AWS (EKS, Lambda, API Gateway, CDK), Kubernetes, PCF, Docker, GitLab CI                                                                                      |
-| **Observability**  | Splunk, Dynatrace, Amplitude, SonarQube, Checkmarx                                                                                                           |
-| **Data**           | Oracle, SQL, JPA; XML / XSD / JAXB                                                                                                                           |
-| **Frontend**       | React 18, TypeScript, Module Federation (MFE), Amplitude; React Router, Material UI, Tailwind CSS, React Hook Form; Angular, AngularJS, JavaScript, HTML/CSS |
-| **Practices**      | Agile / Scrum, TDD, BDD (Cucumber, JBehave), circuit breakers, caching (EhCache), connection pooling                                                         |
+| Area               | Technologies                                                                                                       |
+| ------------------ |--------------------------------------------------------------------------------------------------------------------|
+| **Backend**        | Java 17, Spring Boot, Spring Security, Spring Batch, Spring Retry, REST, OAuth2 / JWT, JPA / Hibernate             |
+| **Integration**    | Kafka, IBM MQ, SOAP / REST, message-level encryption, two-way SSL                                                  |
+| **Cloud & DevOps** | AWS (EKS, Lambda, API Gateway, CDK), Kubernetes, PCF, Docker, GitLab CI                                            |
+| **Observability**  | Splunk, Dynatrace, Amplitude, SonarQube, Seemplicity                                                               |
+| **Data**           | Oracle, SQL, JPA; XML / XSD / JAXB                                                                                 |
+| **Frontend**       | ReactJS, TypeScript, Module Federation (MFE), React Router, Tailwind CSS, Angular, AngularJS, JavaScript, HTML/CSS |
+| **Practices**      | Agile / Scrum, TDD, BDD (Cucumber, JBehave)                                                                        |
 
 ---
 
@@ -36,14 +36,12 @@ Strong track record designing and delivering secure, high-throughput services fo
 
 - Maintain and enhance **Spring Boot microservices** supporting mobile and web applications; primary backend contact for mobile API integration.
 - Re-factored the **authentication service** used by frontend and mobile clients, implementing **Spring Security** for REST API access.
-- Worked in **React MFE** features for international shop-and-book checkout flows
-- Resolved Kuwait **Pay Now** checkout failure:
-- Implemented **Amplitude error telemetry** for OAuth token load failures
+- Worked in **React MFE** features for international shop-and-book app
 - Built **Splunk** and **Dynatrace** dashboards for production monitoring; debugged and resolved production and lower-environment incidents.
 - Contributed to **AWS CDK** (TypeScript / Python) projects exposing Lambda functions via private API Gateway and VPC endpoints.
 - Optimised **IBM MQ** connection handling and service performance under production load.
-- Built **htzd-shop-and-book-mcp**, a **Spring AI** MCP server exposing Hertz rental APIs as AI tools (vehicle search, location lookup, reservation create/lookup/cancel) for chatbot and assistant integration; OpenAPI-generated clients, OAuth token security, streamable HTTP MCP, deployed on **AWS EKS**.
-- Implemented a secure REST API proxy and OpenAPI integration for Hertz car rental booking via ChatGPT — OAuth 2.0, multi-endpoint orchestration, and PCI-safe checkout handoff.
+- Built **htzd-shop-and-book-mcp**, a **Spring AI** MCP server exposing Hertz rental APIs as AI tools (vehicle search, location lookup, reservation create/lookup/cancel) for chatbot and assistant integration deployed on **AWS EKS**.
+- Implemented a secure REST API proxy and OpenAPI integration for Hertz car rental booking via ChatGPT — OAuth 2.0, multi-endpoint orchestration.
 
 ---
 
@@ -74,7 +72,7 @@ Strong track record designing and delivering secure, high-throughput services fo
 #### Bearing Point · Jun 2016 – Feb 2017
 
 - Full-stack delivery for passport renewal workflows: AngularJS UI, **Activiti BPMN**, JPA entities, XSD design for printing-system messages.
-- Input validation, PDF reporting modals, and workflow task executors.
+- Input validation, PDF reporting, and workflow task executors.
 
 #### 123.ie · Feb 2016 – May 2016
 
@@ -86,7 +84,7 @@ Strong track record designing and delivering secure, high-throughput services fo
 
 #### Bearing Point · Jun 2014 – Jun 2015
 
-- End-to-end delivery: Spring REST controllers, **Spring Security**, JPA, SOAP/REST integration; Agile/Scrum delivery.
+- Spring REST controllers, **Spring Security**, JPA, SOAP/REST integration; Agile/Scrum delivery.
 
 #### Bord Gáis · May 2013 – May 2014
 
@@ -100,7 +98,6 @@ Strong track record designing and delivering secure, high-throughput services fo
 **Java Consultant** · Apr 2012 – Apr 2013
 
 - Backend development for **iBOC**, an intermediary between core banking services and an iOS iPad app for remote account opening (Spring MVC, JPA, JSON, web services).
-- Proof of concept log-search application using **Hibernate Search**.
 
 ---
 
@@ -154,12 +151,12 @@ Strong track record designing and delivering secure, high-throughput services fo
 
 End-to-end timesheet management application: React SPA with Spring Boot authentication and data services, deployed on **AWS EC2** behind **Nginx** with HTTPS.
 
-- Built the **React 18** frontend (Create React App) with **React Router**, **Material UI**, **Tailwind CSS**, and **React Hook Form** for timesheet entry, project tracking, notes, and admin workflows.
+- Built the **React JS** frontend (Create React App) with **React Router**, **Material UI**, **Tailwind CSS**, and **React Hook Form** for timesheet entry, project tracking, notes, and admin workflows.
 - Implemented **JWT authentication** with refresh-token handling, protected routes, role-based admin access, OAuth2 support, and RSA password encryption via the Web Crypto API.
 - Integrated with **Spring Boot REST APIs** for auth and timesheet data; designed fetch-based HTTP client with automatic token refresh and CSRF handling.
 - Deployed production build as static assets on **AWS EC2** with **Nginx** reverse proxy, Let's Encrypt SSL, and SPA routing fallback.
 
-**Stack:** React 18, MUI, Tailwind CSS, React Router, Context API, Spring Boot, JWT, Nginx, AWS EC2
+**Stack:** React JS, MUI, Tailwind CSS, React Router, Context API, Spring Boot, JWT, Nginx, AWS EC2
 
 ---
 

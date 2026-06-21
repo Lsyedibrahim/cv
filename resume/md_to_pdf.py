@@ -6,8 +6,8 @@ from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer, Table, Tabl
 from reportlab.lib.enums import TA_CENTER, TA_LEFT
 import re
 
-INPUT_FILE = "/Users/syedibrahim/Documents/Syed_Ibrahim_CV_2026_Dublin.md"
-OUTPUT_FILE = "/Users/syedibrahim/Documents/Syed_Ibrahim_CV_2026_Dublin.pdf"
+INPUT_FILE = "Syed_Ibrahim_CV_2026_Dublin.md"
+OUTPUT_FILE = "Syed_Ibrahim_CV_2026_Dublin.pdf"
 
 def parse_md_to_pdf():
     with open(INPUT_FILE, "r") as f:
