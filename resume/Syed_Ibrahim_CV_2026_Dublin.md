@@ -59,35 +59,16 @@ Strong track record designing and delivering secure, high-throughput services fo
 
 ---
 
-### Aristotle IT Services — Dublin _(consultant placements)_
+### Aristotle IT Services — Dublin _(consultant placements for clients in Dublin)_
 
 **Java Consultant** · May 2013 – Jan 2018
-
-#### Allied Irish Bank · Feb 2017 – Jan 2018
 
 - Designed and built **JSON REST services** on Spring Boot.
 - Implemented **JWT authorisation** with Spring OAuth2 and JJWT for multiple consumer applications.
 - Delivered **two-way SSL** with common-name validation; unit and integration tests with Spring Test, JUnit, Hamcrest.
-
-#### Bearing Point · Jun 2016 – Feb 2017
-
 - Full-stack delivery for passport renewal workflows: AngularJS UI, **Activiti BPMN**, JPA entities, XSD design for printing-system messages.
-- Input validation, PDF reporting, and workflow task executors.
-
-#### 123.ie · Feb 2016 – May 2016
-
 - Responsive UI development with AngularJS and CSS3 media queries across mobile and desktop.
-
-#### Bank of America · Aug 2015 – Feb 2016
-
 - REST APIs for the Diamond UI application (**Python / Flask / SQLAlchemy**, Knockout.js).
-
-#### Bearing Point · Jun 2014 – Jun 2015
-
-- Spring REST controllers, **Spring Security**, JPA, SOAP/REST integration; Agile/Scrum delivery.
-
-#### Bord Gáis · May 2013 – May 2014
-
 - Standalone Java application generating **PAIN.008** payment XML; JAXB, JPA/Hibernate, JSR-303 validation.
 - XSLT transforms for PAIN.002 failure analysis and Excel-based reporting.
 
